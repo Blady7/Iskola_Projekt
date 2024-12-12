@@ -2,7 +2,5 @@
 </script>
 
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+  <h1>Home</h1>
 </template>
